@@ -28,7 +28,7 @@ The project was built with **Angular**, **TypeScript**, **HTML**, and **CSS**. I
 ## 📁 Project Structure
 
 ```text
-GadgetZone-Ecommerce-Website/
+Ecommerce-Website/
 │
 ├── src/
 │   ├── app/
