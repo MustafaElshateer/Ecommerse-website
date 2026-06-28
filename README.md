@@ -1,6 +1,6 @@
-# GadgetZone Ecommerce Website
+# Ecommerce Website
 
-GadgetZone is an Angular e-commerce website for browsing electronic products, viewing product details, and managing a shopping cart using a mock backend API.
+Ecommerce is an Angular e-commerce website for browsing electronic products, viewing product details, and managing a shopping cart using a mock backend API.
 
 The project was built with **Angular**, **TypeScript**, **HTML**, and **CSS**. It uses `db.json` as a mock database, which can be served using JSON Server during development.
 
