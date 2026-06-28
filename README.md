@@ -1,27 +1,47 @@
-# Gadgetzone2
+# GadgetZone Ecommerce Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+GadgetZone is an Angular e-commerce website for browsing electronic products, viewing product details, and managing a shopping cart using a mock backend API.
 
-## Development server
+The project was built with **Angular**, **TypeScript**, **HTML**, and **CSS**. It uses `db.json` as a mock database, which can be served using JSON Server during development.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- Display products
+- View product details
+- Add products to cart
+- Manage cart items
+- Responsive e-commerce UI
+- Mock backend using `db.json`
+- Angular routing between pages
+- Component-based structure
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🛠️ Technologies Used
 
-## Build
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Angular CLI
+- JSON Server
+- REST API concept using mock data
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📁 Project Structure
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```text
+GadgetZone-Ecommerce-Website/
+│
+├── src/
+│   ├── app/
+│   ├── assets/
+│   ├── index.html
+│   ├── main.ts
+│   └── styles.css
+│
+├── db.json
+├── angular.json
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.spec.json
+└── README.md
